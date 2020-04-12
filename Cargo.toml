@@ -1,0 +1,10 @@
+[package]
+name = "albanian-vi-rs"
+version = "0.1.0"
+authors = ["Hikaru Terazono (3c1u) <3c1u@vulpesgames.tokyo>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+msgbox = "0.4.0"
